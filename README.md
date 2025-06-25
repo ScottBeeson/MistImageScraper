@@ -1,5 +1,5 @@
 # MistImageScraper
-Iterates through each site and each AP and downloads any attached images.
+Downloads attached images from all APs in all Sites in your Juniper Mist portal.
 
 ## Settings
 Add your API key and org_id to the settings.json file (You can copy the settings.template.json file).
