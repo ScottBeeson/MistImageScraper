@@ -1,0 +1,5 @@
+{
+	"token": "<your_token_here>",
+	"base_url": "https://api.mist.com/api/v1",
+	"org_id": "<your_org_id_here>"
+}
